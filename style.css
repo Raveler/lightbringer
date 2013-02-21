@@ -1,0 +1,125 @@
+
+
+body {
+	font-size: 12px;
+	background-color: #222222;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	overflow: hidden;
+}
+
+h1 {
+	display: inline-block;
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #999999;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #999999;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: white;
+}
+
+.canvas-mobile {
+	display: inline-block;
+	background-color: #000000;
+}
+
+#main {
+	position: relative;
+	text-align: center;
+	/*margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;*/
+}
+
+.log {
+	position: absolute;
+	width: 400px;
+	right: 15px;
+	top: 25px;
+	text-align: right;
+}
+
+.log-mobile {
+	position: static;
+	width: 100%;
+	text-align: left;
+}
+
+#fps {
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+
+.fps-mobile {
+	position: static;
+	width: 100%;
+	text-align: right;
+}
+
+.splash-screen {
+	border: 5px solid #080808;
+}
+
+.error {
+	border: 2px solid orange;
+	color: red;
+}
+
+#main {
+	display: none;
+	border: 5px solid #080808;
+}
+
+#main-container {
+	position: relative;
+	width: 800px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#debugcanvas {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 800px;
+	height: 600px;
+}
+
+#menu {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#editor {
+	display: none;
+	border: 5px solid #FF00FF;
+}
+
+#editor-menu {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#editor-container {
+	position: relative;
+	width: 800px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}

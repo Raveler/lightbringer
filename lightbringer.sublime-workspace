@@ -1,0 +1,1440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"quad",
+				"quadraticCurveTo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5544,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Entity.js",
+			"settings":
+			{
+				"buffer_size": 2789,
+				"line_ending": "Windows",
+				"name": "define([\"Compose\"], function(Compose) {"
+			}
+		},
+		{
+			"file": "scripts/Block.js",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Windows",
+				"name": "define([\"GroundDrawable\"], function(GroundDrawable"
+			}
+		},
+		{
+			"file": "scripts/BoxFixture.js",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Drawable.js",
+			"settings":
+			{
+				"buffer_size": 794,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/LineDrawable.js",
+			"settings":
+			{
+				"buffer_size": 3159,
+				"line_ending": "Windows",
+				"name": "define([\"Compose\", \"Entity\", \"Logger\"], function(C"
+			}
+		},
+		{
+			"file": "scripts/GroundDrawable.js",
+			"settings":
+			{
+				"buffer_size": 2157,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Data.js",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Windows",
+				"name": "define([], function() {"
+			}
+		},
+		{
+			"file": "scripts/Fixture.js",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Windows",
+				"name": "define([\"Compose\", \"Logger\"], function(Compose, Lo"
+			}
+		},
+		{
+			"file": "scripts/LineEntity.js",
+			"settings":
+			{
+				"buffer_size": 3482,
+				"line_ending": "Windows",
+				"name": "define([\"Compose\", \"Entity\"], function(Compose, En"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/www/starena2/public/three.js/src/core/Vector2.js",
+			"settings":
+			{
+				"buffer_size": 2007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/www/starena2/public/three.js/src/core/Vector3.js",
+			"settings":
+			{
+				"buffer_size": 8178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/E/Temp/spacefilling-2d.xml",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Light.js",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"line_ending": "Windows",
+				"name": "define([], function() {"
+			}
+		},
+		{
+			"file": "scripts/Editor.js",
+			"settings":
+			{
+				"buffer_size": 3221,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/WorldEditor.js",
+			"settings":
+			{
+				"buffer_size": 3109,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Scene.js",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"line_ending": "Windows",
+				"name": "define([\"Compose\"], function(Compose) {"
+			}
+		},
+		{
+			"file": "scripts/dat.color.js",
+			"settings":
+			{
+				"buffer_size": 6793,
+				"line_ending": "Windows",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "scripts/dat.gui.js",
+			"settings":
+			{
+				"buffer_size": 45411,
+				"line_ending": "Windows",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "glMatrix-0.9.5.min.js",
+			"settings":
+			{
+				"buffer_size": 12443,
+				"line_ending": "Windows",
+				"name": "// glMatrix v0.9.5"
+			}
+		},
+		{
+			"file": "scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 3344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Object.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "define([\"Compose\", \"Logger\"], function(Compose, Lo"
+			}
+		},
+		{
+			"file": "scripts/gl-matrix-min.js",
+			"settings":
+			{
+				"buffer_size": 98988,
+				"line_ending": "Windows",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1535,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Renderer.js",
+			"settings":
+			{
+				"buffer_size": 3255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/Utility.js",
+			"settings":
+			{
+				"buffer_size": 1253,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/www/lightbringer/scripts/Keyboard.js",
+		"/D/www/lightbringer/scripts/RendererOld.js",
+		"/D/www/lightbringer/scripts/Renderer.js",
+		"/D/www/lightbringer/scripts/World.js",
+		"/D/www/lightbringer/style.css",
+		"/D/www/lightbringer/scripts/Utility.js",
+		"/D/www/shared/index.html",
+		"/E/Temp/stuffs.txt",
+		"/D/cq3/cq3 core dump.sql",
+		"/D/www/starena2/public/three.js/utils/exporters/blender/README.md",
+		"/D/www/starena2/public/models/fighter.js",
+		"/D/www/starena2/node_modules/three.js/three.js",
+		"/D/www/starena2/public/three.js/utils/externs/common.js",
+		"/D/www/starena2/Sector.js",
+		"/D/www/starena2/public/scripts/three.min.js",
+		"/D/www/starena2-client/public/scripts/Vector3.js",
+		"/D/www/starena2-client/public/scripts/Snapshot.js",
+		"/D/www/starena2-client/public/scripts/World.js",
+		"/D/www/starena2-client/public/scripts/Bison.js",
+		"/D/www/starena2-client/public/scripts/Game.js",
+		"/D/www/starena2-client/public/index.html",
+		"/D/www/starena2-client/public/scripts/main.js",
+		"/D/www/starena2-client/public/scripts/bosin.js",
+		"/D/www/starena2-client/public/scripts/PacketFlattener.js",
+		"/D/www/packetflattener/packetflattener.js",
+		"/D/www/starena2-client/public/scripts/Renderer.js",
+		"/D/www/starena2-client/scripts/Game.js",
+		"/D/www/starena2-client/scripts/main.js",
+		"/D/www/starena2-client/scripts/Spaceship.js",
+		"/D/www/packetflattener/example.js",
+		"/D/www/starena2-client/private/NetworkServer.js",
+		"/D/www/starena2-client/public/scripts/bison.js",
+		"/D/www/packetflattener/README.md",
+		"/D/www/starena2-client/server.js",
+		"/D/www/robhawkes-mozilla-festival-single-player-0-g92336f2/mozilla-festival-master/game.js",
+		"/D/www/starena2-client/World.js",
+		"/D/www/starena/scripts/SpaceshipEngine.js",
+		"/D/www/starena2-client/scripts/ImageLoader.js",
+		"/D/www/starena2-client/style.css",
+		"/D/www/starena2-client/scripts/Logger.js",
+		"/D/www/starena2-client/scripts/Space.js",
+		"/D/www/starena2-client/scripts/Random.js",
+		"/D/www/starena2-client/scripts/Keyboard.js",
+		"/D/www/starena2-client/public/scripts/Spaceship.js",
+		"/D/www/starena2-client/public/scripts/SpaceshipEngine.js",
+		"/D/www/starena2-client/public/scripts/Player.js",
+		"/D/www/starena2-client/public/scripts/DeepCopy.js",
+		"/D/www/starena2-client/public/scripts/Logger.js",
+		"/D/www/starena2-client/private/World.js",
+		"/D/www/starena2-client/public/scripts/Network.js",
+		"/D/www/starena2-client/public/scripts/NetworkServer.js",
+		"/D/www/starena2-client/public/scripts/GameLauncher.js",
+		"/D/www/starena2-client/public/scripts/Vector2.js",
+		"/D/www/starena2-client/public/scripts/Keyboard.js",
+		"/D/www/starena2-client/public/scripts/FPSTimer.js",
+		"/D/www/starena2-client/public/style.css",
+		"/D/www/starena2-client/public/scripts/ImageLoader.js",
+		"/D/www/starena2-client/Sector.js",
+		"/D/www/starena2-client/scripts/Network.js",
+		"/D/www/starena/scripts/Spaceship.js",
+		"/D/www/starena2-client/index.html",
+		"/D/www/EvoDash/evodash.html",
+		"/D/www/robhawkes-mozilla-festival-single-player-0-g92336f2/mozilla-festival-master/public/index.html",
+		"/D/www/robhawkes-mozilla-festival-single-player-0-g92336f2/mozilla-festival-master/public/js/game.js",
+		"/D/www/EvoDash/index.html",
+		"/D/www/EvoDash/scripts/Data.js",
+		"/D/www/shared/scripts/Keyboard.js",
+		"/D/www/shared/scripts/main.js",
+		"/C/Program Files/nodejs/hello.js",
+		"/D/cq3/silenus/examples/Farmer Mouth/LIBRARY/subtest.xml",
+		"/D/www/tagielometer/config.xml",
+		"/D/cq3/silenus/examples/Farmer Mouth/DOMDocument.xml",
+		"/D/cq3/silenus/examples/Farmer Mouth/LIBRARY/test.xml",
+		"/D/www/evodashcom/index.html",
+		"/D/www/evodashcom/evodash.css",
+		"/D/www/evodashcom/game.html",
+		"/E/Program Files (x86)/Steam/steamapps/common/the binding of isaac/serial.txt",
+		"/D/www/robhawkes-mozilla-festival-single-player-0-g92336f2/robhawkes-mozilla-festival-92336f2/game.js",
+		"/D/www/evodashcom/bootstrap/js/bootstrap-colorpicker.js",
+		"/D/www/evodashcom/bootstrap/css/colorpicker.css",
+		"/D/www/tagielometer/index.php",
+		"/D/www/evodashcom/channel.html",
+		"/D/www/codex/sites/default/settings.php",
+		"/D/www/codex/sites/default/default.settings.php",
+		"/D/www/codex/sites/default/settings.php.server",
+		"/D/www/evodashcom/scripts/main.js",
+		"/D/www/evodashcom/scripts/GameCreator.js",
+		"/D/www/evodashcom/scripts/ImageData.js",
+		"/D/www/evodashcom/php/saveGame.php",
+		"/D/www/evodashcom/php/createGame.php",
+		"/D/www/evodashcom/scripts/PictureManipulator.js",
+		"/D/www/evodashcom/php/getGameData.php",
+		"/D/www/evodashcom/scripts/PhotoSelector.js",
+		"/D/www/evodashcom/scripts/TagBrowser.js",
+		"/D/www/evodashcom/bootstrap/css/bootstrap.css",
+		"/D/www/evodashcom/php/upload.php",
+		"/D/www/evodashcom/php/fine-uploader.php",
+		"/D/www/evodashcom/php/data.php",
+		"/D/cq2/latest/data.php",
+		"/D/www/evodashcom/php/submitImage.php",
+		"/C/Users/Karel/AppData/Roaming/mIRC/logs/#bbg.freenode.log",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/www/tagielometer/login.php",
+		"/D/www/EvoDash/scripts/main.js",
+		"/D/www/EvoDash/evodash.css",
+		"/D/www/silenus-renderer/upload/data.json",
+		"/D/cq3/silenus/examples/Farmer Mouth/LIBRARY/Farmer lose_bottom teeth.xml",
+		"/D/cq3/silenus/examples/Farmer Mouth/LIBRARY/Farmer lose_mouth.xml",
+		"/D/www/presskit/press release.txt",
+		"/D/cq3/silenus/examples/shoes/LIBRARY/Farmer win_shoe left.xml",
+		"/D/cq3/silenus/examples/curve/DOMDocument.xml",
+		"/D/cq3/silenus/examples/curvo/DOMDocument.xml",
+		"/D/www/presskit/press release nl.txt",
+		"/D/www/evodashcom/evodashcom.sublime-project",
+		"/C/Users/Karel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Karel/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/www/evodashcom/evodashcom.sublime-workspace",
+		"/D/cq3/silenus/examples/shoes/DOMDocument.xml",
+		"/D/cq3/silenus/examples/shoes/LIBRARY/Farmer win.xml",
+		"/D/cq3/silenus/examples/shoes/LIBRARY/Farmer win_shoe right.xml",
+		"/D/www/presskit/tags.php",
+		"/D/www/presskit/index.php",
+		"/D/www/presskit/_template/_data.xml",
+		"/D/www/presskit/evo_dash/data.xml",
+		"/D/www/presskit/sheet.php",
+		"/D/www/presskit/castle_quest/data.xml",
+		"/D/www/presskit/data.xml",
+		"/D/www/presskit/evo_dash/_data.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\www\\lightbringer\\scripts",
+			"D:\\www\\starena2",
+			"D:\\www\\starena2-client",
+			"D:\\www\\evodashcom",
+			"D:\\www\\EvoDash",
+			"D:\\cq2\\latest\\",
+			"D:\\cq2\\latest\\images",
+			"D:\\cq2\\latest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"data.",
+			"size.",
+			"data",
+			"reset",
+			"new LineDrawable",
+			"console.log",
+			"setScene",
+			"vec",
+			"data.",
+			"    ",
+			"data.",
+			"zeroWidth",
+			"this.z",
+			"data",
+			"console.log",
+			"Logger.log",
+			"console.log",
+			"physicsMesh",
+			"dynamic",
+			"zeroWidth",
+			"half",
+			"this.loc",
+			"this.color",
+			"light",
+			"this.color",
+			"Box2D",
+			"computeCorners",
+			"Box2D",
+			"sub",
+			"copy",
+			"console.log",
+			"    ",
+			"pMatrix",
+			"1",
+			"spader",
+			"Vector2",
+			"getWorldMap",
+			"Logger.log",
+			"imageLoaded",
+			"loadImages",
+			"Logger.log",
+			"reset",
+			"this.z",
+			"Logger.log",
+			" pending",
+			"loadImages",
+			"ambientcreep",
+			"kingdomCreatedBroadcastText2",
+			"acceleration",
+			"this.quaternion",
+			"this.direction",
+			".log",
+			"Logger.log",
+			"console.log",
+			"getBigData",
+			"updateOnClient",
+			"alignTurnSpeed",
+			");\n",
+			"renderer.",
+			"this.direction",
+			"getDirection",
+			"this.direction",
+			"Logger.log",
+			"addModel",
+			"\n			",
+			"addDrawable",
+			".move",
+			"this.width",
+			"lookAt",
+			"console.log",
+			"Logger.log",
+			"draw(",
+			"new Spaceship",
+			"Vector2",
+			"+=",
+			"+-",
+			"+",
+			"console.log",
+			"	",
+			"currSnapshot",
+			"hurdur",
+			"this.playerIds",
+			"uuid",
+			"Logger.log",
+			".draw",
+			"interpolate",
+			"this.tick",
+			"currSnapshot",
+			"tickRate",
+			"getLastInputTick",
+			"ship is at",
+			"jsfiddle",
+			".ajax",
+			"printError",
+			"error",
+			"Logger.log",
+			"getGameData",
+			"this.gameId",
+			"Logger.log",
+			"/img",
+			"hue",
+			"hue.png",
+			"img",
+			"img/",
+			"sendMessage",
+			".log",
+			"GetUnity",
+			"GetUnity : ",
+			"sendMessage",
+			"getUnity",
+			"overlaySize",
+			"handleUpload",
+			"{",
+			"getAuthResponse",
+			"SendMessage",
+			"loaded",
+			"UnityPlayer",
+			"unityPlayer",
+			"log-entry",
+			"log",
+			"15.",
+			"{\"translate\":",
+			"next_view",
+			"mouse",
+			"$promoterawards",
+			"COMPANY_DESCRIPTION",
+			"$child"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hSize.",
+			"	",
+			"\\t",
+			"this.quaternion",
+			"dir",
+			"/=",
+			"*=",
+			"-=",
+			"/",
+			"*",
+			"-",
+			"    ",
+			"    \n{\"translate\":",
+			"\n{\"translate\":",
+			"{\"translate\":\n",
+			"\\n{\"translate\":",
+			"Index: Silenus/",
+			"req.open('GET', 'regmouse.php?type=' + type + '&offsetX=' + 0 + '&offsetY=' + 0 + '&screenX=' + MouseX + '&screenY=' + MouseY + '&frameWidth=' + winW + '&frameHeight=' + winH + '&screenWidth=' + window.screen.width + '&screenHeight=' + window.screen.height);",
+			"req.open('GET', 'regmouse.php?type=' + type + '&offsetX=' + event.pageX + '&offsetY=' + event.pageY + '&screenX=' + MouseX + '&screenY=' + MouseY + '&frameWidth=' + winW + '&frameHeight=' + winH + '&screenWidth=' + window.screen.width + '&screenHeight=' + window.screen.height);",
+			"jpg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3590,
+								3590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/Entity.js",
+					"settings":
+					{
+						"buffer_size": 2789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"Compose\"], function(Compose) {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/Block.js",
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"GroundDrawable\"], function(GroundDrawable",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/BoxFixture.js",
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1061,
+								1061
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scripts/Drawable.js",
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scripts/LineDrawable.js",
+					"settings":
+					{
+						"buffer_size": 3159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"Compose\", \"Entity\", \"Logger\"], function(C",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scripts/GroundDrawable.js",
+					"settings":
+					{
+						"buffer_size": 2157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scripts/Data.js",
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([], function() {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scripts/Fixture.js",
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"Compose\", \"Logger\"], function(Compose, Lo",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "scripts/LineEntity.js",
+					"settings":
+					{
+						"buffer_size": 3482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1400,
+								1400
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"Compose\", \"Entity\"], function(Compose, En",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "D:\\www\\lightbringer\\scripts",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/www/starena2/public/three.js/src/core/Vector2.js",
+					"settings":
+					{
+						"buffer_size": 2007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 498.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/www/starena2/public/three.js/src/core/Vector3.js",
+					"settings":
+					{
+						"buffer_size": 8178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1106,
+								1106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1143.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/Temp/spacefilling-2d.xml",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "scripts/Light.js",
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([], function() {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "scripts/Editor.js",
+					"settings":
+					{
+						"buffer_size": 3221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "scripts/WorldEditor.js",
+					"settings":
+					{
+						"buffer_size": 3109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1981,
+								1981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 738.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "scripts/Scene.js",
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"Compose\"], function(Compose) {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "scripts/dat.color.js",
+					"settings":
+					{
+						"buffer_size": 6793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6793,
+								6793
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "scripts/dat.gui.js",
+					"settings":
+					{
+						"buffer_size": 45411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45411,
+								45411
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 2420.0,
+						"translation.y": 1112.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "glMatrix-0.9.5.min.js",
+					"settings":
+					{
+						"buffer_size": 12443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12443,
+								12443
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// glMatrix v0.9.5",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "scripts/main.js",
+					"settings":
+					{
+						"buffer_size": 3344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3337,
+								3337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1485.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "D:\\www\\lightbringer\\scripts",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "scripts/Object.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "define([\"Compose\", \"Logger\"], function(Compose, Lo",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "scripts/gl-matrix-min.js",
+					"settings":
+					{
+						"buffer_size": 98988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98988,
+								98988
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 56913.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 1535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "scripts/Renderer.js",
+					"settings":
+					{
+						"buffer_size": 3255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2736,
+								2736
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "scripts/Utility.js",
+					"settings":
+					{
+						"buffer_size": 1253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1242,
+								1242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true
+}
